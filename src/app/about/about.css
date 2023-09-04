@@ -1,0 +1,15 @@
+.layout{
+   padding: 1rem;
+   display: flex;
+   justify-content: center;
+}
+.layout a{
+    margin-right: 2rem;
+    color: chartreuse;
+    font-size: 23px;
+}
+.layout h2{
+    margin-right: 2rem;
+    color: rgb(123, 38, 179);
+    font-size: 23px;
+}
