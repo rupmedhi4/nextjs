@@ -29,6 +29,9 @@ export default function Home() {
           <button onClick={() => router.push('/login')}>GI TO LOGIN</button>
           <br />
           <br />
+          <button onClick={() => router.push('/productList ')}>GI TO product</button>
+          <br />
+          <br />
     </main>
   )
 }
